@@ -8,6 +8,8 @@ title: Short works
 
 "Mermaids in the Garden"-- _Dreamforge Magazine_ (2021)
 
+"Family Matters"-- [_Voices_] (https://www.amazon.com/Voices-Elaine-Cunningham-ebook/dp/B089Q8TH82/ref=sr_1_1?crid=68O3VSVYT8F1&keywords=Voices+Elaine+Cunningham&qid=1645484630&sprefix=voices+elaine+cunningham%2Caps%2C68&sr=8-1) (Kindle eBook, 2020)
+
 "Honest Trade"-- [_Scoundrels: A Blackguard Anthology_](https://www.amazon.com/Scoundrels-Blackguards-Anthology-Melanie-Meadors-ebook/dp/B07QZL4Y9Z/ref=sr_1_fkmr0_1?keywords=Scoundrels%2C+Outland+Enterprises&qid=1571595974&sr=8-1-fkmr0) (Outland Entertainment, 2019)
 
 "Burning"-- [_Hath No Fury_](https://www.amazon.com/Hath-No-Fury-J-M-Martin-ebook/dp/B07BZVC16G/ref=sr_1_1?ie=UTF8&qid=1525344856&sr=8-1&keywords=Hath+No+Fury) (Outland Entertainment, 2018)
@@ -42,9 +44,9 @@ title: Short works
 
 ## **Flash fiction**
 
-["Plot Problems"](http://www.evilgirlfriendmedia.com/1288/news/plot-problems-by-elaine-cunningham/)-- _EMG Shorts_, EvilGirlfriendMedia.com (2016)
+"Plot Problems"]-- _EMG Shorts_, EvilGirlfriendMedia.com (2016)
 
-["Maintenance"](http://www.evilgirlfriendmedia.com/830/news/maintenance-by-elaine-cunningham/)-- _EMG Shorts_, EvilGirlfriendMedia.com (2015)
+["Maintenance"]-- _EMG Shorts_, EvilGirlfriendMedia.com (2015)
 
 "Jack and Jill"-- _Flash Me Magazine_ (Winged Halo, 2009)
 
