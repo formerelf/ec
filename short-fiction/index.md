@@ -8,7 +8,7 @@ title: Short works
 
 "Mermaids in the Garden"-- _Dreamforge Magazine_ (2021)
 
-"Family Matters"-- [_Voices_] (https://www.amazon.com/Voices-Elaine-Cunningham-ebook/dp/B089Q8TH82/ref=sr_1_1?crid=68O3VSVYT8F1&keywords=Voices+Elaine+Cunningham&qid=1645484630&sprefix=voices+elaine+cunningham%2Caps%2C68&sr=8-1) (Kindle eBook, 2020)
+"Family Matters"-- [_Voices_](https://www.amazon.com/Voices-Elaine-Cunningham-ebook/dp/B089Q8TH82/ref=sr_1_1?crid=68O3VSVYT8F1&keywords=Voices+Elaine+Cunningham&qid=1645484630&sprefix=voices+elaine+cunningham%2Caps%2C68&sr=8-1) (Kindle eBook, 2020)
 
 "Honest Trade"-- [_Scoundrels: A Blackguard Anthology_](https://www.amazon.com/Scoundrels-Blackguards-Anthology-Melanie-Meadors-ebook/dp/B07QZL4Y9Z/ref=sr_1_fkmr0_1?keywords=Scoundrels%2C+Outland+Enterprises&qid=1571595974&sr=8-1-fkmr0) (Outland Entertainment, 2019)
 
